@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineering Student 3<br>Bartin University
+Computer Engineering <br>Bartin University
 
 
 ## 🌐 Socials:
